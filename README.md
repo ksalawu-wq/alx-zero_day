@@ -1,1 +1,1 @@
-My first readme !
+what the command uname prints in ubuntu VM
